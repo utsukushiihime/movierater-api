@@ -1,7 +1,6 @@
 ### Django ###
 *.env
 *.idea
-.env/*
 .env*
 .idea
 *.log
@@ -152,3 +151,4 @@ dmypy.json
 .prof
 
 # End of https://www.toptal.com/developers/gitignore/api/django
+!/.env/
