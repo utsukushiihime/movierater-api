@@ -1,4 +1,4 @@
-# django-angular-api
+# movierater-api
 
 ### App Requirements
 
