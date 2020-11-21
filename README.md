@@ -1,6 +1,6 @@
 # movierater-api
 
-#### [Front End Movie Rater Angular App](https://github.com/utsukushiihime/movierater-api)
+#### [Front End Movie Rater Angular App](https://github.com/utsukushiihime/movierater-angular-app)
 
 ### App Requirements
 
